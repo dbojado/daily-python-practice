@@ -1,5 +1,5 @@
 #Create a program that asks user to enter their name and age
-#The output tells user in what year they will be 100 years old
+#The output tells user in what year they will be 100 years old 
 
 from datetime import datetime
 current_year = datetime.now().year
