@@ -1,4 +1,4 @@
-#Guessing Number Game
+#Guessing Number Game  
 #Guess number (1 - 10) until you are right
 #Program will tell you how many times you guessed 
 
