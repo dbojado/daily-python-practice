@@ -1,5 +1,5 @@
 #Create a ATM program with ability to show balance, withdraw from account, deposit into account, and end session
-
+ 
 while True: 
     balance = 10000
     print("     ATM     ")
