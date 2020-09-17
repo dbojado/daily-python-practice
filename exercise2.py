@@ -1,4 +1,4 @@
-#Create a simple rock,paper,scissors game
+#Create a simple rock,paper,scissors game 
 
 print('''Let play a game! Please pick one: \n
 Rock
