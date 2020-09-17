@@ -1,4 +1,4 @@
-# Generate a random password with length "password_length" 
+# Generate a random password with length "password_length"   
 # No duplicate characters 
 # No special characters
 # No spaces
